@@ -1,3 +1,5 @@
+moved to https://gitlab.com/t-systems-devops-school/dev-school-front-app
+
 # dev-school-front-app
 Frontend part of dev school application.
 
